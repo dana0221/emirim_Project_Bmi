@@ -5,4 +5,10 @@
     <string name="text_weight">체중(kg) : </string>
     <string name="text_height">신상(cm) : </string>
     <string name="result_title">BMI(체질량지수) 결과화면</string>
+    <string name="bmi_comment1">귀하는 저체중이므로 식단 조절과 가벼운 유산소 운동을 하세요</string>
+    <string name="bmi_comment2">귀하는 정상이므로 현재 상태를 유지하세요</string>
+    <string name="bmi_comment3">귀하는 과체중이므로 식단 조절과 가벼운 유산소와 근력 운동을 하세요</string>
+    <string name="bmi_comment4">귀하는 비만이므로 저탄수화물 식단 조절과 유산소와 근력 운동을 하세요</string>
+    <string name="bmi_comment5">귀하는 고도비만이므로 체계적인 식단 조절과 다양한 주 3회 운동을 하세요</string>
+    <string name="bmi_comment6">귀하는 초고도비만이므로 체계적인 식단 조절과 주 4회 이상 꾸준히 운동을 하세요</string>
 </resources>

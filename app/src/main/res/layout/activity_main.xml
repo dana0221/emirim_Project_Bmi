@@ -37,7 +37,7 @@
             android:id="@+id/edit_weight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:textSize="15sp"/>
 
     </LinearLayout>
@@ -59,7 +59,7 @@
             android:id="@+id/edit_height"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:textSize="15sp"/>
     </LinearLayout>
 
